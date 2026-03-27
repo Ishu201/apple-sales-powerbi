@@ -52,7 +52,7 @@ the experience, and the margin end to end.
 ### Full Dashboard Overview
 <img width="1223" height="732" alt="Full Dashboard" src="https://github.com/user-attachments/assets/306f220e-fa9b-486a-ae35-dad7a412b861" />
 
-### Apple Store Filter Applied — FY 2024
+### Apple Store Filter Applied - FY 2024
 <img width="1221" height="732" alt="Screenshot 2026-03-25 211734" src="https://github.com/user-attachments/assets/dae3bddb-e13d-4988-8035-9e147b514d74" />
 
 ### Monthly Revenue Performance
@@ -62,7 +62,7 @@ the experience, and the margin end to end.
 <img width="1004" height="443" alt="Screenshot 2026-03-25 234221" src="https://github.com/user-attachments/assets/bd81a266-3d89-4468-a619-334dd467c09c" />
 
 ## How to View
-**Option 1 — Download**
+**Download**
 Download the `.pbix` file and open in 
 [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
 
