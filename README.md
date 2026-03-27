@@ -1,4 +1,4 @@
-# Apple Sales Performance — Power BI Dashboard
+# Apple Sales Performance - Power BI Dashboard
 ### ALY6070 Communicating & Visualizing Data Analysis | Northeastern University
 
 ## Overview
